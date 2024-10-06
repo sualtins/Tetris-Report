@@ -1,0 +1,15 @@
+\begin{thebibliography}{}
+
+\bibitem[Lin and Pantel, 2001]{lin2001}
+Lin, D. and Pantel, P. (2001).
+\newblock {DIRT} - {D}iscovery of {I}nference {R}ules from {T}ext.
+\newblock In {\em Proceedings of the ACM SIGKDD Conference on Knowledge
+  Discovery and Data Mining (KDD-01)}, pages 323--328, San Francisco, CA.
+
+\bibitem[Szpektor et~al., 2004]{szpektor2004}
+Szpektor, I., Tanev, H., Dagan, I., and Coppola, B. (2004).
+\newblock Scaling web-based acquisition of entailment relations.
+\newblock In {\em Conference on Empirical Methods in Natural Language
+  Processing (EMNLP-04)}, pages 41--48, Barcelona, Spain.
+
+\end{thebibliography}

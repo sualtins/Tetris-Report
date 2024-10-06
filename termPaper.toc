@@ -1,0 +1,5 @@
+\contentsline {section}{\numberline {1}Lorem Ipsum}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Natbib citations}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Dolor sit}{1}{}%
+\contentsline {subsection}{\numberline {1.3}Morbi luctus}{2}{}%
+\contentsline {section}{\numberline {2}Fusce mauris}{4}{}%
